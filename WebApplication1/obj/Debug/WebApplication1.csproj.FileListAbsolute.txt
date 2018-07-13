@@ -1,0 +1,245 @@
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\WebApplication1.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\dominioObligatorio.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\dominioObligatorio.pdb
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\WebApplication1.dll
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\dominioObligatorio.dll
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\dominioObligatorio.pdb
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Segunda entrega\obligatorioWeb\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\WebApplication1.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\dominioObligatorio.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\dominioObligatorio.pdb
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\WebApplication1.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\dominioObligatorio.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\dominioObligatorio.pdb
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\WebApplication1.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\dominioObligatorio.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\dominioObligatorio.pdb
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\Respaldo\obligatorioWeb29-11-16\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\WebApplication1.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\dominioObligatorio.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\dominioObligatorio.pdb
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Marcelo\Documents\ORT\Programacion 2\Obligatorio\SegundaEntrega\obligatorioWeb30-11-16\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\WebApplication1.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\dominioObligatorio.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\dominioObligatorio.pdb
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\ultimo 14 y 15 pm p2 obligatorio\obligatorioWeb30-11-16ultimo\WebApplication1\obj\Debug\WebApplication1.pdb

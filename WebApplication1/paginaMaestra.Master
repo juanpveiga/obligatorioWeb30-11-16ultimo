@@ -1,0 +1,57 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="paginaMaestra.Master.cs" Inherits="WebApplication1.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+
+    <form id="form1" runat="server">
+        
+    <div>
+        
+        <asp:Menu ID="MenuAdmin" runat="server">
+            <Items>
+                <asp:MenuItem Text="Mecanico" Value="Mecanico" Selectable="False">
+                    <asp:MenuItem NavigateUrl="~/Alta Mecanico.aspx" Text="Alta Mecanico" Value="Alta Mecanico"></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/ModificarMecanico.aspx" Text="Modificar Mecanico" Value="Modificar Mecanico"></asp:MenuItem>
+                </asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/AltaEmbarcacion.aspx" Text="Alta Embarcacion" Value="altaEmbarcacion"></asp:MenuItem>
+                <asp:MenuItem Text="Materiales" Value="Materiales" Selectable="False">
+                    <asp:MenuItem NavigateUrl="~/AltaMaterialImportado.aspx" Text="Alta Material Importado" Value="Alta Material Importado"></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/AltaMaterialNacional.aspx" Text="Alta Material Nacional" Value="Alta Material Nacional"></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/ActualizarImpImportacion.aspx" Text="Actualizar Imp Importacion" Value="Actualizar Imp Importacion"></asp:MenuItem>
+                </asp:MenuItem>
+                <asp:MenuItem Text="Reparacion" Value="Reparacion" Selectable="False">
+                    <asp:MenuItem NavigateUrl="~/AltaReparacion.aspx" Text="Alta Reparacion" Value="altaReparacion"></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/AgregarMecanico.aspx" Text="Asignacion de Mecanicos" Value="Asignacion de Mecanicos"></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/AgregarMaterial.aspx" Text="Asignacion de Materiales" Value="Asignacion de Materiales"></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/ListadoRepPendientes.aspx" Text="ListadoRepPendientes" Value="ListadoRepPendientes"></asp:MenuItem>
+                </asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/CerrarSesion.aspx" Text="Cerrar Sesion" Value="Cerrar Sesion"></asp:MenuItem>
+            </Items>
+        </asp:Menu>
+         <asp:Menu ID="MenuAsistente" runat="server">
+                <Items>
+                    <asp:MenuItem Selectable="False" Text="Listados" Value="Listados">
+                        <asp:MenuItem NavigateUrl="~/ListadoEmbarcaciones.aspx" Text="ListadoEmbarcaciones" Value="ListadoEmbarcaciones"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/ListadoMecanicos.aspx" Text="ListadoMecanicos" Value="ListadoMecanicos"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/ListadoRepFinalizadas.aspx" Text="ListadoRepFinalizadas" Value="ListadoRepFinalizadas"></asp:MenuItem>
+                    </asp:MenuItem>
+                    <asp:MenuItem Text="FinalizarReparacion" Value="FinalizarReparacion" NavigateUrl="~/FinalizarReparacion.aspx"></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/CerrarSesion.aspx" Text="Cerrar Sesion" Value="Cerrar Sesion"></asp:MenuItem>
+                </Items>
+            </asp:Menu>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+    <img src="imagenes/portadaEmpresaNaviera.jpg" />
+</body>
+</html>

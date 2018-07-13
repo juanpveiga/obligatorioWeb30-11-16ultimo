@@ -1,0 +1,71 @@
+c:\users\juan veiga\documents\visual studio 2015\Projects\obligatorioWeb\obligatorioWeb\bin\Debug\obligatorioWeb.exe.config
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\obligatorioWeb\bin\Debug\obligatorioWeb.exe.config
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\obligatorioWeb\bin\Debug\obligatorioWeb.exe
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\obligatorioWeb\bin\Debug\obligatorioWeb.pdb
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\obligatorioWeb\bin\Debug\dominioObligatorio.dll
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\obligatorioWeb\bin\Debug\dominioObligatorio.pdb
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.exe
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.pdb
+C:\Users\Juan Veiga\Desktop\Programacion 2\Nueva carpeta\obligatorioWeb(1)\obligatorioWeb\obligatorioWeb\bin\Debug\obligatorioWeb.exe.config
+C:\Users\Juan Veiga\Desktop\Programacion 2\Nueva carpeta\obligatorioWeb(1)\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.exe
+C:\Users\Juan Veiga\Desktop\Programacion 2\Nueva carpeta\obligatorioWeb(1)\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.pdb
+C:\Users\Juan Veiga\Desktop\Programacion 2\Nueva carpeta\obligatorioWeb(1)\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.csprojResolveAssemblyReference.cache
+C:\Users\Juan Veiga\Desktop\Programacion 2\Nueva carpeta\obligatorioWeb(1)\obligatorioWeb\obligatorioWeb\bin\Debug\obligatorioWeb.exe
+C:\Users\Juan Veiga\Desktop\Programacion 2\Nueva carpeta\obligatorioWeb(1)\obligatorioWeb\obligatorioWeb\bin\Debug\obligatorioWeb.pdb
+C:\Users\Juan Veiga\Desktop\Programacion 2\Nueva carpeta\obligatorioWeb(1)\obligatorioWeb\obligatorioWeb\bin\Debug\dominioObligatorio.dll
+C:\Users\Juan Veiga\Desktop\Programacion 2\Nueva carpeta\obligatorioWeb(1)\obligatorioWeb\obligatorioWeb\bin\Debug\dominioObligatorio.pdb
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Obligatorio25-10-16\obligatorioWeb\obligatorioWeb\bin\Debug\obligatorioWeb.exe.config
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Obligatorio25-10-16\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.exe
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Obligatorio25-10-16\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.pdb
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Obligatorio25-10-16\obligatorioWeb\obligatorioWeb\bin\Debug\obligatorioWeb.exe
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Obligatorio25-10-16\obligatorioWeb\obligatorioWeb\bin\Debug\obligatorioWeb.pdb
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Obligatorio25-10-16\obligatorioWeb\obligatorioWeb\bin\Debug\dominioObligatorio.dll
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Obligatorio25-10-16\obligatorioWeb\obligatorioWeb\bin\Debug\dominioObligatorio.pdb
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Obligatorio25-10-16\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.csprojResolveAssemblyReference.cache
+C:\Users\Juan Veiga\Desktop\Programacion 2\Nueva carpeta\obligatorioWeb26-10-16\obligatorioWeb\obligatorioWeb\bin\Debug\obligatorioWeb.exe.config
+C:\Users\Juan Veiga\Desktop\Programacion 2\Nueva carpeta\obligatorioWeb26-10-16\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.exe
+C:\Users\Juan Veiga\Desktop\Programacion 2\Nueva carpeta\obligatorioWeb26-10-16\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.pdb
+C:\Users\Juan Veiga\Desktop\Programacion 2\Nueva carpeta\obligatorioWeb26-10-16\obligatorioWeb\obligatorioWeb\bin\Debug\obligatorioWeb.exe
+C:\Users\Juan Veiga\Desktop\Programacion 2\Nueva carpeta\obligatorioWeb26-10-16\obligatorioWeb\obligatorioWeb\bin\Debug\obligatorioWeb.pdb
+C:\Users\Juan Veiga\Desktop\Programacion 2\Nueva carpeta\obligatorioWeb26-10-16\obligatorioWeb\obligatorioWeb\bin\Debug\dominioObligatorio.dll
+C:\Users\Juan Veiga\Desktop\Programacion 2\Nueva carpeta\obligatorioWeb26-10-16\obligatorioWeb\obligatorioWeb\bin\Debug\dominioObligatorio.pdb
+C:\Users\Juan Veiga\Desktop\Programacion 2\Nueva carpeta\obligatorioWeb26-10-16\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Obligatorio27-10-16\obligatorioWeb\obligatorioWeb\bin\Debug\obligatorioWeb.exe.config
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Obligatorio27-10-16\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.exe
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Obligatorio27-10-16\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.pdb
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Obligatorio27-10-16\obligatorioWeb\obligatorioWeb\bin\Debug\obligatorioWeb.exe
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Obligatorio27-10-16\obligatorioWeb\obligatorioWeb\bin\Debug\obligatorioWeb.pdb
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Obligatorio27-10-16\obligatorioWeb\obligatorioWeb\bin\Debug\dominioObligatorio.dll
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Obligatorio27-10-16\obligatorioWeb\obligatorioWeb\bin\Debug\dominioObligatorio.pdb
+C:\Users\Manuel\Documents\ORT\Programacion 2\Obligatorio\Obligatorio27-10-16\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Desktop\OBLIGATORIO AHORA\Obligatorio27-10-16\obligatorioWeb\obligatorioWeb\bin\Debug\obligatorioWeb.exe.config
+C:\Users\Manuel\Desktop\OBLIGATORIO AHORA\Obligatorio27-10-16\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.exe
+C:\Users\Manuel\Desktop\OBLIGATORIO AHORA\Obligatorio27-10-16\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.pdb
+C:\Users\Manuel\Desktop\OBLIGATORIO AHORA\Obligatorio27-10-16\obligatorioWeb\obligatorioWeb\bin\Debug\obligatorioWeb.exe
+C:\Users\Manuel\Desktop\OBLIGATORIO AHORA\Obligatorio27-10-16\obligatorioWeb\obligatorioWeb\bin\Debug\obligatorioWeb.pdb
+C:\Users\Manuel\Desktop\OBLIGATORIO AHORA\Obligatorio27-10-16\obligatorioWeb\obligatorioWeb\bin\Debug\dominioObligatorio.dll
+C:\Users\Manuel\Desktop\OBLIGATORIO AHORA\Obligatorio27-10-16\obligatorioWeb\obligatorioWeb\bin\Debug\dominioObligatorio.pdb
+C:\Users\Manuel\Desktop\OBLIGATORIO AHORA\Obligatorio27-10-16\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Desktop\ULTIMO OBLIGATORIO CORREGIDO\Obligatorio27-10-16\obligatorioWeb\obligatorioWeb\bin\Debug\obligatorioWeb.exe.config
+C:\Users\Manuel\Desktop\ULTIMO OBLIGATORIO CORREGIDO\Obligatorio27-10-16\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.exe
+C:\Users\Manuel\Desktop\ULTIMO OBLIGATORIO CORREGIDO\Obligatorio27-10-16\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.pdb
+C:\Users\Manuel\Desktop\ULTIMO OBLIGATORIO CORREGIDO\Obligatorio27-10-16\obligatorioWeb\obligatorioWeb\bin\Debug\obligatorioWeb.exe
+C:\Users\Manuel\Desktop\ULTIMO OBLIGATORIO CORREGIDO\Obligatorio27-10-16\obligatorioWeb\obligatorioWeb\bin\Debug\obligatorioWeb.pdb
+C:\Users\Manuel\Desktop\ULTIMO OBLIGATORIO CORREGIDO\Obligatorio27-10-16\obligatorioWeb\obligatorioWeb\bin\Debug\dominioObligatorio.dll
+C:\Users\Manuel\Desktop\ULTIMO OBLIGATORIO CORREGIDO\Obligatorio27-10-16\obligatorioWeb\obligatorioWeb\bin\Debug\dominioObligatorio.pdb
+C:\Users\Manuel\Desktop\ULTIMO OBLIGATORIO CORREGIDO\Obligatorio27-10-16\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Desktop\ULTIMO OBLIGATORIO CORREGIDO\Obligatorio27-10-16Entrega\obligatorioWeb\obligatorioWeb\bin\Debug\obligatorioWeb.exe.config
+C:\Users\Manuel\Desktop\ULTIMO OBLIGATORIO CORREGIDO\Obligatorio27-10-16Entrega\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.exe
+C:\Users\Manuel\Desktop\ULTIMO OBLIGATORIO CORREGIDO\Obligatorio27-10-16Entrega\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.pdb
+C:\Users\Juan Veiga\Desktop\Obligatorio final\obligatorioWeb\obligatorioWeb\bin\Debug\obligatorioWeb.exe.config
+C:\Users\Juan Veiga\Desktop\Obligatorio final\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.exe
+C:\Users\Juan Veiga\Desktop\Obligatorio final\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.pdb
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\obligatorioWeb\bin\Debug\obligatorioWeb.exe.config
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.exe
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.pdb
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\obligatorioWeb\bin\Debug\obligatorioWeb.exe
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\obligatorioWeb\bin\Debug\obligatorioWeb.pdb
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\obligatorioWeb\bin\Debug\dominioObligatorio.dll
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\obligatorioWeb\bin\Debug\dominioObligatorio.pdb
+C:\Users\Juan Veiga\Desktop\Obligatorios\empezando web Obligatorio\Obligatorio final\obligatorioWeb\obligatorioWeb\obj\Debug\obligatorioWeb.csprojResolveAssemblyReference.cache
